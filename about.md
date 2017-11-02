@@ -4,7 +4,18 @@ title: About
 permalink: /about/
 ---
 
-I'm a [PhD student at the University of Southampton](http://cmg.soton.ac.uk/people/rp20g15/) in the Computational Modelling Group, and simulate magnetic systems through micromagnetism.
+I'm a [PhD student at the University of Southampton](http://cmg.soton.ac.uk/people/rp20g15/) in the Computational Modelling Group, and simulate magnetic systems.
+
+### Publications
+
+[3] [Current-induced instability of domain walls in cylindrical nanowires](http://iopscience.iop.org/article/10.1088/1361-648X/aa9698/meta) - W Wang, C Zhang, R Pepper, C Mu, Y Zhou, H Fangohr - Journal of Physics: Condensed Matter, 2017
+
+[2] [Thermal stability and topological protection of skyrmions in nanotracks](https://www.nature.com/articles/s41598-017-03391-8) - D Cortés-Ortuño, W Wang, M Beg, *RA Pepper*, Marc-Antonio Bisotti, R Carey, M Vousden, T Kluyver, O Hovorka, H Fangohr - Scientific Reports, 2017
+
+[1] [User interfaces for computational science: A domain specific language for OOMMF embedded in Python](http://aip.scitation.org/doi/full/10.1063/1.4977225) - M Beg, *RA Pepper*, H Fangohr - AIP Advances, 2017
+
+
+
 
 ### Software
 
